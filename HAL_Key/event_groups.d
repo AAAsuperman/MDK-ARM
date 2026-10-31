@@ -1,8 +1,8 @@
 hal_key\event_groups.o: ..\FreeRTOS\source\event_groups.c
-hal_key\event_groups.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+hal_key\event_groups.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdlib.h
 hal_key\event_groups.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\event_groups.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\event_groups.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\event_groups.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\event_groups.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\event_groups.o: ..\FreeRTOS\include\projdefs.h
 hal_key\event_groups.o: ..\FreeRTOS\include\portable.h

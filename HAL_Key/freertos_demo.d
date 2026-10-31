@@ -1,8 +1,8 @@
 hal_key\freertos_demo.o: ..\Core\Src\freertos_demo.c
 hal_key\freertos_demo.o: ../Core/Inc/freertos_demo.h
 hal_key\freertos_demo.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\freertos_demo.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\freertos_demo.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\freertos_demo.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\freertos_demo.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\freertos_demo.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\freertos_demo.o: ..\FreeRTOS\include\projdefs.h
 hal_key\freertos_demo.o: ..\FreeRTOS\include\portable.h
@@ -43,3 +43,4 @@ hal_key\freertos_demo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 hal_key\freertos_demo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 hal_key\freertos_demo.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 hal_key\freertos_demo.o: ../Int/Key.h
+hal_key\freertos_demo.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdio.h
