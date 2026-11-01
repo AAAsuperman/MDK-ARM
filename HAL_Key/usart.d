@@ -8,14 +8,14 @@ hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 hal_key\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 hal_key\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
 hal_key\usart.o: ../Drivers/CMSIS/Include/core_cm3.h
-hal_key\usart.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\usart.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\usart.o: ../Drivers/CMSIS/Include/cmsis_version.h
 hal_key\usart.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 hal_key\usart.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 hal_key\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-hal_key\usart.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hal_key\usart.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
@@ -29,4 +29,4 @@ hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 hal_key\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
-hal_key\usart.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+hal_key\usart.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdio.h

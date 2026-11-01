@@ -1,8 +1,8 @@
 hal_key\timers.o: ..\FreeRTOS\source\timers.c
-hal_key\timers.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+hal_key\timers.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdlib.h
 hal_key\timers.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\timers.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\timers.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\timers.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\timers.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\timers.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\timers.o: ..\FreeRTOS\include\projdefs.h
 hal_key\timers.o: ..\FreeRTOS\include\portable.h

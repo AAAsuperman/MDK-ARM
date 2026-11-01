@@ -2,7 +2,7 @@ hal_key\system_stm32f1xx.o: ../Core/Src/system_stm32f1xx.c
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Include/core_cm3.h
-hal_key\system_stm32f1xx.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\system_stm32f1xx.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -13,7 +13,7 @@ hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rc
 hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 hal_key\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-hal_key\system_stm32f1xx.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hal_key\system_stm32f1xx.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
 hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 hal_key\system_stm32f1xx.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h

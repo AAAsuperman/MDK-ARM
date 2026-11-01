@@ -1,9 +1,9 @@
 hal_key\queue.o: ..\FreeRTOS\source\queue.c
-hal_key\queue.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-hal_key\queue.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+hal_key\queue.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdlib.h
+hal_key\queue.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\string.h
 hal_key\queue.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\queue.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\queue.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\queue.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\queue.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\queue.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\queue.o: ..\FreeRTOS\include\projdefs.h
 hal_key\queue.o: ..\FreeRTOS\include\portable.h

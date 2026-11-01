@@ -1,7 +1,7 @@
 hal_key\port.o: ..\FreeRTOS\portable\RVDS\ARM_CM3\port.c
 hal_key\port.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\port.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\port.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\port.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\port.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\port.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\port.o: ..\FreeRTOS\include\projdefs.h
 hal_key\port.o: ..\FreeRTOS\include\portable.h

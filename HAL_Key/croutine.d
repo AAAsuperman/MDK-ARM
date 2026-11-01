@@ -1,7 +1,7 @@
 hal_key\croutine.o: ..\FreeRTOS\source\croutine.c
 hal_key\croutine.o: ..\FreeRTOS\include\FreeRTOS.h
-hal_key\croutine.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-hal_key\croutine.o: D:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_key\croutine.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stddef.h
+hal_key\croutine.o: F:\Dstm32\ARM\arm5_compiler\Bin\..\include\stdint.h
 hal_key\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 hal_key\croutine.o: ..\FreeRTOS\include\projdefs.h
 hal_key\croutine.o: ..\FreeRTOS\include\portable.h
